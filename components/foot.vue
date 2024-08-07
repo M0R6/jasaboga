@@ -5,7 +5,7 @@
         <v-row>
           <v-col cols="12" sm="3" class="my-auto mx-auto text-center">
             <img class="h-[170px] rounded-pill my-auto mx-auto mb-1" src="https://res.cloudinary.com/duboggqno/image/upload/v1722417041/logoboga_zqwl2s.jpg"/>
-            <p>Jasa Boga Andalanmu</p>
+            <p>Varra Cattum - Catering & Tumpeng</p>
           </v-col>
           <v-col cols="12" sm="3" class="my-auto text-center">
         <a href="#" target="_blank" class="">
@@ -30,16 +30,16 @@
       <v-divider style="max-width: 80%; width: 100%;"  class="mb-10 white mx-auto"></v-divider>
       <div class="social-icons">
         <a href="https://instagram.com/nrfntr" target="_blank">
-          <font-awesome-icon class="h-6 mx-auto cursor-pointer text-white hover:text-blue-300"  :icon="['fab', 'instagram']" />
+          <font-awesome-icon class="mx-auto cursor-pointer text-white hover:text-blue-300"  :icon="['fab', 'instagram']" style="height: 28px;" />
         </a>
         <a href="https://x.com/nrfntr" target="_blank">
-          <font-awesome-icon class="h-6 mx-auto cursor-pointer text-white hover:text-blue-300" :icon="['fab', 'x-twitter']" />
+          <font-awesome-icon class="mx-auto cursor-pointer text-white hover:text-blue-300" :icon="['fab', 'x-twitter']" style="height: 28px;" />
         </a>
         <a href="https://youtube.com/@M0R6" target="_blank">
-          <font-awesome-icon class="h-6 mx-auto cursor-pointer text-white hover:text-blue-300" :icon="['fab', 'youtube']" />
+          <font-awesome-icon class="mx-auto cursor-pointer text-white hover:text-blue-300" :icon="['fab', 'youtube']" style="height: 28px;" />
         </a>
         <a href="https://youtube.com/@M0R6" target="_blank">
-          <font-awesome-icon class="h-6 mx-auto cursor-pointer text-white hover:text-blue-300" :icon="['fab', 'whatsapp']" />
+          <font-awesome-icon class="mx-auto cursor-pointer text-white hover:text-blue-300" :icon="['fab', 'whatsapp']" style="height: 28px;" />
         </a>
       </div>
       <p>
@@ -93,10 +93,10 @@ export default {
   transition: color 0.3s;
 }
 .social-icons a:hover {
-  color: #1da1f2; /* Change this to your desired hover color */
+  color: #1da1f2;  /*Change this to your desired hover color */
 }
 .social-icon {
-  font-size: 1px; /* Adjust this value as needed */
+  font-size: 200px; /* Adjust this value as needed */
 }
 .contact-info p {
   margin: 0.5rem 0;

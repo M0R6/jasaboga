@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: 'Jasa Boga',
-    title: 'Jasa Boga',
+    titleTemplate: 'Varra Cattum | Catering & Tumpemg',
+    title: 'Varra Cattum | Catering & Tumpemg',
     htmlAttrs: {
       lang: 'en'
     },
