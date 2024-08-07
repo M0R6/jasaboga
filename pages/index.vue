@@ -38,8 +38,10 @@
         sm="6"
         md="4"
         class="mx-auto my-auto">
-      <v-card-title class="text-start caveat-font"><span class="font-bold text-[17px]">Selamat datang di situs web resmi Varra Cattum! </span></v-card-title>
-      <v-card-subtitle class="caveat-font text-justify" >Kami adalah jasa boga yang berlokasi di Sewon, Bantul, yang siap memenuhi kebutuhan kuliner Anda dengan harga yang sangat ekonomis dan terjangkau. Dengan dedikasi dan komitmen tinggi, kami hadir untuk memberikan pengalaman kuliner terbaik, baik untuk acara berskala kecil maupun besar.</v-card-subtitle>
+      <v-card-title class="text-center justify-center caveat-font"><span class="font-bold text-[17px]">Selamat datang di situs web resmi Varra Cattum! </span></v-card-title>
+      <v-card-subtitle class="caveat-font text-center" >Kami adalah jasa boga yang berlokasi di Sewon, Bantul, yang siap memenuhi kebutuhan kuliner Anda dengan harga yang sangat ekonomis dan terjangkau. Dengan dedikasi dan komitmen tinggi, kami hadir untuk memberikan pengalaman kuliner terbaik, baik untuk acara berskala kecil maupun besar. Dengan beragam menu lezat dan berkualitas, kami memastikan setiap hidangan yang kami sajikan memenuhi standar cita rasa yang tinggi. Tim kami yang profesional dan berpengalaman siap melayani Anda dengan sepenuh hati, menjadikan setiap acara Anda lebih istimewa dan berkesan.
+
+Percayakan kebutuhan kuliner Anda kepada Varra Cattum, dan nikmati pelayanan prima yang kami tawarkan. Mari ciptakan momen-momen tak terlupakan bersama kami.</v-card-subtitle>
     </v-col>
     <v-col
         cols="12"
