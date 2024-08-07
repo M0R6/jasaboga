@@ -15,7 +15,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/jpeg', href: 'https://res.cloudinary.com/duboggqno/image/upload/v1722417041/logoboga_zqwl2s.jpg' }
+      { rel: 'icon', type: 'image/jpeg', href: 'https://res.cloudinary.com/duboggqno/image/upload/t_Profile/v1722521163/logoboga_zqwl2s.png' }
     ]
   },
 
